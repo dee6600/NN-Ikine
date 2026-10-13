@@ -122,10 +122,9 @@ cd .. && tectonic --keep-intermediates main.tex
 
 See [`paper/README.md`](paper/README.md) for details.
 
-## Authors
+## Author
 
-Original project: **Durgesh Reddiyar**, **Priyank Patel**, **Rumitkumar Patel**. MAE 547 Modeling and Control of Robots, Arizona State University, Fall 2021.
-Technical report and follow-up analysis: **Durgesh S. Reddiyar** (dreddiya@asu.edu).
+**Durgesh S. Reddiyar** (dreddiya@asu.edu). Originally built for MAE 547 Modeling and Control of Robots, Arizona State University, Fall 2021.
 
 ## Citation
 
