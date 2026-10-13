@@ -139,6 +139,10 @@ Technical report and follow-up analysis: **Durgesh S. Reddiyar** (dreddiya@asu.e
 }
 ```
 
+## License
+
+[MIT](LICENSE)
+
 ## References
 
 - P. Corke, *Robotics, Vision and Control*, Springer. Robotics Toolbox for MATLAB.
