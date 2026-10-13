@@ -1,0 +1,37 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+
+# LaTeX build artefacts (main.bbl is kept: arXiv needs it)
+*.aux
+*.log
+*.out
+*.blg
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+!paper/results/*.log
+
+# Old paper drafts (paper/README.md marks these safe to delete)
+paper/main_article_backup.tex
+paper/main_before_cleanup.tex
